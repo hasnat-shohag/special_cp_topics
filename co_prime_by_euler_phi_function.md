@@ -1,3 +1,4 @@
-[How_co_prime_is_calculated_by_Phi_Function:](https://www.youtube.com/watch?v=epLcsjsH8YY&t=6s)\
+[How to Calculate Co Prime:](https://www.youtube.com/watch?v=epLcsjsH8YY&t=6s)\
+[Euler totient function:](https://cp-algorithms.com/algebra/phi-function.html#implementation)\
 [Code:](https://ideone.com/p9E23k)
 
