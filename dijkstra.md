@@ -1,4 +1,4 @@
-[Code:](https://ideone.com/ThqyAa)\
+[Code:](https://ideone.com/ThqyAa)
 
 #include <bits/stdc++.h>
 using namespace std;
