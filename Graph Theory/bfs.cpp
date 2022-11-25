@@ -18,7 +18,7 @@ int main()
 
     vector<int> vis(n, -1);
 
-    int par[n];
+    int par[n]; // parent
     for (int i = 0; i < n; i++)
         par[i] = i;
 
