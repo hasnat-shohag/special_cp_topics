@@ -9,7 +9,7 @@ Code TC of 0(n):
 
 Explanation: 
 
-    sum = max(array[k], sum + arreay[k]);e
+    sum = max(array[k], sum + arreay[k]);
     It's working in this way that, when the sum of all previous index is less than the evalue of present index
     at this time previous sub array automatically neglected from the counting process.
     That's all 🙂
